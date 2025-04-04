@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35425.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "multipleuser login", "multipleuser login\multipleuser login.csproj", "{472C289E-35CA-4E3E-A19A-448EC5B90A7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{472C289E-35CA-4E3E-A19A-448EC5B90A7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{472C289E-35CA-4E3E-A19A-448EC5B90A7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{472C289E-35CA-4E3E-A19A-448EC5B90A7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{472C289E-35CA-4E3E-A19A-448EC5B90A7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4869A19-DF2D-4A90-8A15-A3577C518E08}
+	EndGlobalSection
+EndGlobal
